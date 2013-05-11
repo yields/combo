@@ -17,6 +17,12 @@ window.onkeyup = combo(['f', 'g'], 300, function(e){
 });
 ```
 
+## API
+
+#### combo(keys[, ms], fn)
+
+`ms` is defaulted to `300`.
+
 ## License
 
   MIT
